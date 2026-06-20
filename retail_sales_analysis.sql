@@ -1,8 +1,7 @@
--- SQL Retail Sales Analysis - P1
+-- SQL Retail Sales Analysis - 
 CREATE DATABASE sql_project_p2;
 
 
--- Create TABLE
 DROP TABLE IF EXISTS retail_sales;
 CREATE TABLE retail_sales
             (
