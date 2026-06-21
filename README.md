@@ -92,5 +92,5 @@ B.Tech Computer Science and Engineering
 Sreenidhi Institute of Science and Technology
 
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* GitHub: https://github.com/atishgaddam
+* LinkedIn: https://www.linkedin.com/in/atishgaddam
